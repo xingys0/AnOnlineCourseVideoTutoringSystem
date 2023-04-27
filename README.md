@@ -22,7 +22,6 @@ This is a highly scalable and reliable system using JavaScript-Vue and Java-Spri
 ✅ Redis
 ✅ MySQL
 
-
 (3)Other Technologies:
 
 ✅ Freemarker
